@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
+global.vcardowner = ['94715709186'] //ur owner number
+global.ownername = "REAL NADUN OFFICIAL" //ur owner name
 global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['94714188730']
-global.ownertag = '94714188730' //ur tag number
+global.owner = ['94715709186']
+global.ownertag = '94715709186' //ur tag number
 global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94714188730'] //ur premium numbers
+global.premium = ['94715709186'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Done ✅',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
